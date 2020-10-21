@@ -10,7 +10,7 @@ def progress_function(stream, chunk, bytes_remaining):
 
 
 try:
-    print("\n::::Initializing Bulk Youtube Video Downloader v1.0a (つ▀¯▀)つ >>>>>>>>>>>>>>>>>>>>")
+    print("\n::::Initializing MultiTube Youtube Video Downloader v1.0a (つ▀¯▀)つ >>>>>>>>>>>>>>>>>>>>")
     st = speedtest.Speedtest()
     print("\n>PLEASE BE PATIENT, CHECKING DATA SPEED...")
     speed = st.download() / 1e+6
